@@ -1,0 +1,2 @@
+# OPENMP
+programmation parallele:openmp
